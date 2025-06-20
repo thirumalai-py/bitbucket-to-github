@@ -89,11 +89,11 @@ Ensure the following tools and configurations are in place:
 
 Make the script executable:
 
-`chmod +x migrate-repos.sh`
+`chmod +x migrate_to_github.sh`
 
 Run the script:
 
-`./migrate-repos.sh`
+`./migrate_to_github.sh`
 
 ## 🔄 What It Does
 
